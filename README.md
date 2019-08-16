@@ -1,2 +1,2 @@
 # demo
-this is a demo
+A small initial approach to GitHub
